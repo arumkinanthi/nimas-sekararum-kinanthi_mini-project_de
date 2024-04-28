@@ -1,4 +1,4 @@
-# Prediksi Biaya Proyek Bank Dunia
+# World Bank Project Costs
 
 ## About Project
 Mini Project Data Engineer ini merupakan implementasi hasil pembelajaran dengan merancang aplikasi teknologi sesuai trend industri yang meliputi langkah-langkah ETL serta analisis, penyimpanan, dan visualisasi data. Tujuan utama dari proyek ini adalah untuk melakukan proses data cleaning dan menggabungkannya menjadi satu tabel untuk menjalankan model prediksi biaya total proyek Bank Dunia.
