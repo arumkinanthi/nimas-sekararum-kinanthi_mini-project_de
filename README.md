@@ -11,7 +11,7 @@ daftar tools dan framework yang digunakan dalam bentuk list seperti ini:
 - Data Visualization (library Python: openai, matplotlib.pyplot, seaborn, plotly)
 - Tools (Visual Studio Code, Jupyter Notebook, Github)
 
-## Architecture Diagram
+## ETL Architecture
 ![alt text](https://github.com/arumkinanthi/nimas-sekararum-kinanthi_mini-project_de/blob/main/etl-architecture.png)
 
 ## Setup 
